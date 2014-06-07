@@ -192,4 +192,6 @@ The stack ptr (`000`) points at memory address `005` marking the current stack f
 
 ***
 
-[Comments](http://www.reddit.com/r/Mutan/comments/27jjou/mutan_02/)
+* [Comments](http://www.reddit.com/r/Mutan/comments/27jjou/mutan_02/)
+* [Mutan 0.2](https://github.com/obscuren/mutan)
+* [Ethereum](https://github.com/ethereum/go-ethereum)
