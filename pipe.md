@@ -72,3 +72,5 @@ pipe.Execute( ... )
 ```
 
 I hope this will further speed up the NACL development. Suggestion, patches, etc are all welcome on GH :-)
+
+For some further reading please see the [Pipe Reference](https://github.com/ethereum/go-ethereum/wiki/Pipe)
