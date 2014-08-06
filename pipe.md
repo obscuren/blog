@@ -55,7 +55,7 @@ Last but certainly not least is the ability to preview/run a contract and evalua
 ```go
 var JeffCoinAddr = ethutil.Hex2Bytes("2b984e578b430612e38d19014cff841ba39cdb9a")
 
-/* Execute the object associated with the address. Method ExecuteObject takes an object as first argument instead.
+// Execute the object associated with the address. Method ExecuteObject takes an object as first argument instead.
 ret, err := pipe.Execute(JeffCoinAddr, nil, ethutil.NewValue(0), ethutil.NewValue(10000), ethutil.NewValue(0))
 if err != nil {
     fmt.Println("err", err)
